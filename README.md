@@ -1,1 +1,4 @@
-# mtm6302-s24-interactive-gallery-yiyunc9
+interactive-gallery
+Student Name: Yiyun Cao
+
+Student Number: 041111050
